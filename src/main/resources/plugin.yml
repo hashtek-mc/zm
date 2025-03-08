@@ -1,0 +1,6 @@
+name: '${name}'
+author: Lysandre B.
+version: '${version}'
+main: fr.hashtek.spigot.zm.Zm
+api-version: '1.16'
+depend: ['Tekore']
