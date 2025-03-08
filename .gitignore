@@ -1,0 +1,19 @@
+# .gitignore for Zm project
+
+# Gradle stuff
+.gradle/
+build/
+
+# Eclipse stuff
+classpath
+.project
+.settings/
+
+# IntelliJ stuff
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+bin/
+classes/
